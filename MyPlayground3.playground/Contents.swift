@@ -27,6 +27,7 @@ class Point: Shape {
 	}
 }
 
+//: Очень похоже на наследование
 class Line: Shape {
 	var name: String = "Line"
 	
